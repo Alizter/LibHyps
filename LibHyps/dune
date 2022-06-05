@@ -1,0 +1,6 @@
+(coq.theory
+ (name LibHyps)
+ (package coq-libhyps)
+ (modules :standard \ LibHypsRegression LibHypsTest))
+
+
